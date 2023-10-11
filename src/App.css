@@ -1,0 +1,85 @@
+/* Estilos para el contenedor principal de la aplicación */
+.App {
+    text-align: center;
+  }
+  
+  /* Estilos para el contenedor del contador */
+  .bg-gray-200 {
+    background-color: #e2e8f0;
+  }
+  
+  .p-4 {
+    padding: 1rem;
+  }
+  
+  .rounded-lg {
+    border-radius: 0.5rem;
+  }
+  
+  .text-xl {
+    font-size: 1.25rem;
+  }
+  
+  .font-semibold {
+    font-weight: 600;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1rem;
+  }
+  
+  /* Estilos para los botones */
+  .bg-blue-500 {
+    background-color: #4299e1;
+  }
+  
+  .hover\:bg-blue-600:hover {
+    background-color: #3182ce;
+  }
+  
+  .bg-red-500 {
+    background-color: #f56565;
+  }
+  
+  .hover\:bg-red-600:hover {
+    background-color: #e53e3e;
+  }
+  
+  .bg-gray-500 {
+    background-color: #a0aec0;
+  }
+  
+  .hover\:bg-gray-600:hover {
+    background-color: #718096;
+  }
+  
+  /* Estilos para el campo de entrada de texto */
+  .border {
+    border: 1px solid #cbd5e0;
+  }
+  
+  .rounded {
+    border-radius: 0.25rem;
+  }
+  
+  .px-2 {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+  
+  .py-1 {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+  }
+  
+  .mt-2 {
+    margin-top: 0.5rem;
+  }
+  
+  .focus\:outline-none:focus {
+    outline: none;
+  }
+  
+  .focus\:border-blue-500:focus {
+    border-color: #4299e1;
+  }
